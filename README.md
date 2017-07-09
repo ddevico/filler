@@ -8,4 +8,4 @@ gaining points. The game stops That a piece can no longer be placed.
 
 To start the program:
 - make
-- ./ressources/filler_vm -p1 [ressources/*.filler | ./filler] -p2 [ressources/*.filler | ./filler] -f [maps/*.map]
+- ./resources/filler_vm -p1 [resources/*.filler | ./filler] -p2 [resources/*.filler | ./filler] -f [resources/maps/*.map]
